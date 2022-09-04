@@ -1,0 +1,15 @@
+.sa-bisu{
+  color:#ff8c00;
+}
+.header{
+  width:1366px;
+  height:758px;
+}
+.web2{
+  margin-left:0;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
